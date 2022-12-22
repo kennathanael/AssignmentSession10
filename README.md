@@ -1,8 +1,8 @@
-# Assignment Sesi 10 Laravel Authentication with Socialite
+# Assignment Sesi 10 Laravel Authentication menggunakan Socialite
 Deskripsi: menggunakan template autentikasi (socialite) supaya bisa login tanpa mengisi manual tetapi dengan platfrom lain (Google).
 
 ## Installation Guide
-1. Clone project dari repository Github dibawah
+1. Clone project dari repository Github dibawah ini
 ```sh
 https://github.com/kennathanael/AssignmentSession10.git
 ```
