@@ -1,5 +1,5 @@
-# GSLC Sesi 10 Laravel Authentication with Socialite
-Deskripsi: menggunakan template autentikasi (socialite) supaya bisa login tanpa manual tetapi dengan platfrom lain (Google).
+# Assignment Sesi 10 Laravel Authentication with Socialite
+Deskripsi: menggunakan template autentikasi (socialite) supaya bisa login tanpa mengisi manual tetapi dengan platfrom lain (Google).
 
 ## Installation Guide
 1. Clone project dari repository Github dibawah
